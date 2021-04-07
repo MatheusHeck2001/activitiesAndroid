@@ -13,8 +13,8 @@ sistema deve exibir uma mensagem alertando o usuário.</br>
 dispositivo. Altere a cor de fundo da tela principal de acordo com a mensagem: dia 
 (amarelo); tarde (verde); noite (azul escuro)."</br>
 
-[Exemplo de execução do primeiro item]()</br>
-[Exemplo de execução do segundo item]()</br>
+[Exemplo de execução do primeiro item](https://github.com/MatheusHeck2001/activitiesAndroid/blob/main/screenAtAt3_1.png)</br>
+[Exemplo de execução do segundo item](https://github.com/MatheusHeck2001/activitiesAndroid/blob/main/screenAtAt3_2.png)</br>
 
 [AndroidManifest.xml](https://github.com/MatheusHeck2001/activitiesAndroid/blob/main/AndroidManifest.xml)</br>
 [Main Activity java](https://github.com/MatheusHeck2001/activitiesAndroid/blob/main/java/com/example/atividade3/MainActivity.java)</br>
