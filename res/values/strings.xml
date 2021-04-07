@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Atividade3</string>
+    <string name="greeting">Greetings</string>
+    <string name="factorialCalculator">Factorial Calculator</string>
+    <string name="factorial">Factorial:</string>
+    <string name="hint">Put the number to calculate</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+
+    <string name="morning">Good Morning</string>
+    <string name="afternoon">Good Afternoon</string>
+    <string name="night">Good Night</string>
+
+    <string name="date">Date here!</string>
+    <string name="time">Time here!</string>
+
+
+
+
+
+</resources>
